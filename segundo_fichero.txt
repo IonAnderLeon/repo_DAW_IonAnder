@@ -1,1 +1,7 @@
+Nuevo fichero para rama.
+Se ha modificado el archivo al pasar a la segunda rama
+Modificacion extra
+Modificacion con commit
+Cambio desde rama main
+Modificacion conflictiva con commit
 Modificacion conflictiva desde main
